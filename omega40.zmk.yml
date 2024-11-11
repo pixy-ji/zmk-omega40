@@ -1,0 +1,9 @@
+file_format: "1"
+id: omega40
+name: OMEGA40
+type: shield
+url: 
+requires: [nice_nano_v2]
+features:
+  - keys
+  - underglow
